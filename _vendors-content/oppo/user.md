@@ -81,5 +81,6 @@ You can choose one of three power-saving options under each app and allow the ap
     <img src="/assets/img/oppo/oppo_power_saver_2.jpg">
     <figcaption>Choices for the Power saver modes.</figcaption>
   </figure>
+you all have to serve your app to all device
 
 </div>
